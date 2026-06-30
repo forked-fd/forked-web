@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://forked-fd.vercel.app/sitemap.xml
